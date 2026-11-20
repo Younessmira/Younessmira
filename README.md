@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bonjour, je suis Youness Mira 👋
 
-<!--
-**Younessmira/Younessmira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Élève-ingénieur en filière **Data & IA** à **[Nom de ton école]** — Recherche un **contrat d'apprentissage Data Engineer / Data & IA** dès **Septembre 2027** (Île-de-France).  
+Parcours complet et CV disponibles sur [LinkedIn](www.linkedin.com/in/youness-mira).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projets phares
+
+| Projet | Ce que ça fait | Stack | Résultat / Preuve |
+| :--- | :--- | :--- | :--- |
+
+
+
+
+
+
